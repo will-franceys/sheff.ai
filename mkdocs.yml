@@ -8,7 +8,7 @@ site_url: https://sheff.ai/
 edit_uri: edit/main/docs/
 theme:
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github-alt
     edit: material/pencil 

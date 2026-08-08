@@ -1,6 +1,13 @@
-# 👋 Hi There!
+---
+title: Sheffield AI | AI & Machine Learning Consultancy
+full_title: true
+---
 
-We're Nadine and Will of Sheffield AI. We are experienced consultants with 15 years combined experience specialising in data science and machine learning for industrial and engineering applications. 
+# AI and Machine Learning Consultants in Sheffield
+
+👋 Hi There!
+
+We're Nadine and Will of Sheffield AI. We are consultants with 15 years combined experience specialising in data science and machine learning for industrial and engineering applications based in Sheffield, UK.
 
 Nadine is a Data Scientist with a PhD in Astrophysics. Nadine has held research positions at UCL and NASA, focusing on the analysis of large datasets from spacecraft, and has extensive experience in signal processing in time series and image data. Since leaving academia, Nadine has applied advanced analytics solutions in numerous industrial settings. 
 
