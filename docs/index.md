@@ -23,3 +23,5 @@ We run a consulting practice focused on helping companies build better practices
 [Understand Our Services](./services.md){ .md-button .md-button--primary }
 
 <!-- [Read the Blog](./services.md){ .md-button .md-button--primary} -->
+
+--8<-- "docs/includes/testimonials.md"
