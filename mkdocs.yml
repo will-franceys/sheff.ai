@@ -111,8 +111,7 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 nav:
-  - Home: 
-    - Introductions: 'index.md'
+  - Home: 'index.md'
   # - Writing:
     # - "writing/index.md"
   - Consulting:
